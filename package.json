@@ -23,6 +23,6 @@
   "dependencies": {
     "gulp-shell": "luisrudge/gulp-shell",
     "gulp-util": "^3.0.5",
-    "lodash": "^3.9.3"
+    "lodash": "^4.17.21"
   }
 }
